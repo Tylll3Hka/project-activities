@@ -1,3 +1,1 @@
-
-rootProject.name = "server-project-activities"
-
+rootProject.name = "com.tylllenka.server-project-activities"
